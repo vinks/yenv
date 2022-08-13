@@ -78,7 +78,7 @@
     "deep-extend": "^0.6.0",
     "js-yaml": "^4.1.0",
     "keyblade": "^0.3.2",
-    "yargs": "^17.2.1"
+    "yargs": "^17.5.1"
   },
   "typings": "lib/yenv"
 }
