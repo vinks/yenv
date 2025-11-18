@@ -76,7 +76,7 @@
   "dependencies": {
     "coercer": "^1.1.2",
     "deep-extend": "^0.6.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "keyblade": "^0.3.2",
     "yargs": "^17.2.1"
   },
